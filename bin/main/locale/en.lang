@@ -1,0 +1,34 @@
+[itemtooltip]
+treasure_chest=Contains a small amount of coins, along with a trinket\n or other rare treasure from the biome in which it was found.
+chest_tip=Equip and use this item to open it!
+
+magmadweller_tooltip=These sightless fish are made of stone, and possess a remarkable resistance to scorching temperatures.\nThey can be found in lava tiles in any Deep Cave biome.\nMake sure to bring a rod that can handle lava!
+frostlurker_tooltip=This type of fish can be found in the freezing cold waters of the Deep Snow Caves.\nMake sure to bring something to break the ice!
+
+[item]
+// Treasure Chests
+surface_treasure_chest=Surface Treasure Chest
+forest_caves_treasure_chest=Forest Caves Treasure Chest
+snow_caves_treasure_chest=Snow Caves Treasure Chest
+plains_caves_treasure_chest=Plains Caves Treasure Chest
+swamp_caves_treasure_chest=Swamp Caves Treasure Chest
+desert_caves_treasure_chest=Desert Caves Treasure Chest
+deep_forest_caves_treasure_chest=Deep Forest Caves Treasure Chest
+deep_snow_caves_treasure_chest=Deep Snow Caves Treasure Chest
+deep_plains_caves_treasure_chest=Deep Plains Caves Treasure Chest
+deep_swamp_caves_treasure_chest=Deep Swamp Caves Treasure Chest
+deep_desert_caves_treasure_chest=Deep Desert Caves Treasure Chest
+
+// Fish
+oyster=Oyster
+magma_dweller=Magma Dweller
+frost_lurker=Frost Lurker
+
+// Rods
+inferno_rod=Inferno Rod
+crystal_catcher=Crystal Catcher
+
+// Trinkets
+
+// Bait
+crystalline_bait=Crystalline Bait
