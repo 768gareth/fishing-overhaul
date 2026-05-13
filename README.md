@@ -1,2 +1,2 @@
-# NPC Shops Expanded
-A basic mod for Necesse that modifies NPC shops to add and remove items for a better user experience.
+# Fishing Overhaul
+A mod for Necesse that adds new content related to fishing, including new items and expeditions.
