@@ -1,4 +1,4 @@
-package FishingOverhaul.Items;
+package FishingOverhaul.Utils;
 
 import necesse.engine.localization.Localization;
 import necesse.engine.network.gameNetworkData.GNDItemMap;
