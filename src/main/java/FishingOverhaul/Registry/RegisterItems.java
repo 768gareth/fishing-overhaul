@@ -14,6 +14,8 @@ public class RegisterItems
 {
     public static void Register()
     {
+        System.out.println("[Fishing Overhaul] Registering items...");
+
         LootList Surface = new LootList();
         SurfaceRuinsChestLootTable.mainItem.addPossibleLoot(Surface, new Object[0]);
 

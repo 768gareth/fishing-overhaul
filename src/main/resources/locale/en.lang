@@ -2,8 +2,8 @@
 treasure_chest=Contains a small amount of coins, along with a trinket\n or other rare treasure from the biome in which it was found.
 chest_tip=Equip and use this item to open it!
 
-magmadweller_tooltip=These sightless fish are made of stone, and possess a remarkable resistance to scorching temperatures.\nThey can be found in lava tiles in any Deep Cave biome.\nMake sure to bring a rod that can handle lava!
-frostlurker_tooltip=This type of fish can be found in the freezing cold waters of the Deep Snow Caves.\nMake sure to bring something to break the ice!
+magmadweller_tooltip=Magma Dwellers can be found in lava in any Deep Caves biome.\n
+frostlurker_tooltip=Frost Lurkers can be found in the freezing cold waters of the Deep Snow Caves.
 
 [item]
 // Treasure Chests
